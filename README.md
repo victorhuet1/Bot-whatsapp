@@ -6,8 +6,8 @@ pkg install git
 pkg install ffmpeg
 pkg instal wget
 pkg install nodejs
-git clone https://github.com/Meliodas-rai/Bot
-cd Bot
+git clone https://github.com/victorhuet1/Bot-whatsapp
+cd Bot-whatsapp
 bash install.sh
 npm start
 ESCANEIE O QR CODE QUE IRA APARECER COM O WHATSAPP 

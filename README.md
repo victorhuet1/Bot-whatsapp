@@ -4,7 +4,7 @@ Comandos pra instalar:
 termux-setup-storage
 pkg install git
 pkg install ffmpeg
-pkg instal wget
+pkg install wget
 pkg install nodejs
 git clone https://github.com/victorhuet1/Bot-whatsapp
 cd Bot-whatsapp
